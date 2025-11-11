@@ -1,0 +1,17 @@
+C:\Users\shels\source\repos\ShellSort\bin\Debug\net8.0-windows\ShellSort.exe
+C:\Users\shels\source\repos\ShellSort\bin\Debug\net8.0-windows\ShellSort.deps.json
+C:\Users\shels\source\repos\ShellSort\bin\Debug\net8.0-windows\ShellSort.runtimeconfig.json
+C:\Users\shels\source\repos\ShellSort\bin\Debug\net8.0-windows\ShellSort.dll
+C:\Users\shels\source\repos\ShellSort\bin\Debug\net8.0-windows\ShellSort.pdb
+C:\Users\shels\source\repos\ShellSort\obj\Debug\net8.0-windows\ShellSort.Form1.resources
+C:\Users\shels\source\repos\ShellSort\obj\Debug\net8.0-windows\ShellSort.csproj.GenerateResource.cache
+C:\Users\shels\source\repos\ShellSort\obj\Debug\net8.0-windows\ShellSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shels\source\repos\ShellSort\obj\Debug\net8.0-windows\ShellSort.AssemblyInfoInputs.cache
+C:\Users\shels\source\repos\ShellSort\obj\Debug\net8.0-windows\ShellSort.AssemblyInfo.cs
+C:\Users\shels\source\repos\ShellSort\obj\Debug\net8.0-windows\ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\shels\source\repos\ShellSort\obj\Debug\net8.0-windows\ShellSort.dll
+C:\Users\shels\source\repos\ShellSort\obj\Debug\net8.0-windows\refint\ShellSort.dll
+C:\Users\shels\source\repos\ShellSort\obj\Debug\net8.0-windows\ShellSort.pdb
+C:\Users\shels\source\repos\ShellSort\obj\Debug\net8.0-windows\ShellSort.genruntimeconfig.cache
+C:\Users\shels\source\repos\ShellSort\obj\Debug\net8.0-windows\ref\ShellSort.dll
+C:\Users\shels\source\repos\ShellSort\obj\Debug\net8.0-windows\ShellSort.Properties.Resources.resources
